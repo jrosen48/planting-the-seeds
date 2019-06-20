@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Planting the seeds for computer science education in East Tennessee through a research-practice partnership</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Planting the seeds for computer science education in East Tennessee through a research-practice partnership</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing the project: Planting the seeds for computer science education in East Tennessee through a research-practice partnership</title>
+      <link>/2019/05/01/introducing-the-project-planting-the-seeds-for-computer-science-education-in-east-tennessee-through-a-research-practice-partnership/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/01/introducing-the-project-planting-the-seeds-for-computer-science-education-in-east-tennessee-through-a-research-practice-partnership/</guid>
+      <description>Beginning today, we are starting a project supported by the University of Tennessee, Knoxville Community Engaged Research Seed Program.
+An abstract for the project is here:
+ This project aims to assemble a team to support K-8 computer science education efforts in East Tennessee. In particular, this project is responsive to the introduction of new computer science standards (Tennessee Department of Education, 2018) for grades K-8 for the 2019-2020 school year.</description>
+    </item>
+    
+  </channel>
+</rss>
